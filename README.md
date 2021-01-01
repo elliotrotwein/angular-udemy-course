@@ -1,2 +1,2 @@
 # angular-udemy-course
-practice repo for angular 
+ractice repo for angular 
